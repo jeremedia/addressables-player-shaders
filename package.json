@@ -1,0 +1,15 @@
+{
+  "name": "com.jeremedia.addressables-player-shaders",
+  "version": "0.1.0-exp.1",
+  "displayName": "Addressables Player Shaders (Experimental)",
+  "description": "Experimental Addressables content builder that validates Player shader identities, requests external shader references and rejects shader compilation requests.",
+  "unity": "6000.6",
+  "dependencies": {
+    "com.unity.addressables": "4.0.1",
+    "com.unity.scriptablebuildpipeline": "4.0.0"
+  },
+  "author": { "name": "jeremedia", "url": "https://github.com/jeremedia" },
+  "samples": [
+    { "displayName": "Player Material Verification", "description": "Checks a remotely loaded material against an explicitly referenced Player shader in a standalone build.", "path": "Samples~/PlayerMaterialVerification" }
+  ]
+}

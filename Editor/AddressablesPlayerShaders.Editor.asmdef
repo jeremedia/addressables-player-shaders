@@ -1,0 +1,7 @@
+{
+  "name": "AddressablesPlayerShaders.Editor",
+  "rootNamespace": "AddressablesPlayerShaders.Editor",
+  "references": ["Unity.Addressables.Editor", "Unity.Addressables", "Unity.ResourceManager", "Unity.ScriptableBuildPipeline.Editor", "Unity.ScriptableBuildPipeline"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

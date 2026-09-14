@@ -1,0 +1,5 @@
+{
+  "name": "AddressablesPlayerShaders.Sample",
+  "references": ["Unity.Addressables", "Unity.ResourceManager"],
+  "autoReferenced": true
+}

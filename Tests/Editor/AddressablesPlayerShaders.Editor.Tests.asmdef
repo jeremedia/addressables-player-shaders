@@ -1,0 +1,7 @@
+{
+  "name": "AddressablesPlayerShaders.Editor.Tests",
+  "references": ["AddressablesPlayerShaders.Editor", "Unity.ScriptableBuildPipeline.Editor"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
